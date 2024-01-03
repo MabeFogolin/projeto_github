@@ -11,6 +11,4 @@
 <h4  align="left"> :speech_balloon: Estou deixando uma lista no formato .txt no repositório com os principais comandos a serem utilizados (alguns apresentados no curso, outros não). 
 
 <h4 align="left"> :speech_balloon: Agradeço a você que chegou até aqui, pelo seu tempo e atenção. Até mais  :sparkles:
-<h4 align="center"> 
-	🚧  Conhecimento Em construção...  🚧
-</h4>
+<h4 align="center">  🚧  Conhecimento Em construção...  🚧
