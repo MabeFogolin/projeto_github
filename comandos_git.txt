@@ -1,0 +1,27 @@
+git config --global user.name "Nome do usuário" //configura nome
+
+git config --global user.email "E-mail do usuário" //configura e-mail
+
+git config --global core.editor (inserir o editor) //configura o editor
+
+git config --list //mostra a lista de informações do seu git
+
+mkdir (nome pasta) // criar uma pasta
+
+cd ou dir (nomepasta)/ //entrar na pasta
+
+git init //inicializa o repositório
+
+cd .git/ //entra no repositório
+
+cd .. //volta um diretório
+
+ls // listar arquivos
+
+git status //reporta como está o repositório
+
+vim "nome arquivo" /// cria um arquivo
+
+git clone <url> //faz um clone do repositório
+
+git log //mostra o histórico de commits do projeto

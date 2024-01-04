@@ -1,0 +1,12 @@
+//Lista de recomendações de livros e artigos
+
+Controlando versões com Git e GitHub
+Alexandre Aquiles, Rodrigo Ferreira
+
+https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
+
+https://www.markdownguide.org/
+
+https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*25nbdr*_ga*MTUwMzE3NTg0Mi4xNjk2Nzk2Mjc2*_ga_1EPWSW3PCS*MTcwNDMyNzk1Ni40Ny4xLjE3MDQzMjgyNTcuMC4wLjA.*_fplc*c3dWMzFpbHFKJTJGVTN0Y01JeGJ5VWklMkJ0VUlCcnpJNEJyUG9vaThNeUU4Mloxc1BpUWdPV25TMjJFRXRldW83MENCdWVUSkszVzJMQUx5QVIzdk9kMmNjQ1Z0bjUzRkNNTVVQMTFyTXJjZG1iTTNER3YydGtNOGpOUVpCaiUyQjJBJTNEJTNE
+
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?_gl=1*1ajpsw7*_ga*MTUwMzE3NTg0Mi4xNjk2Nzk2Mjc2*_ga_1EPWSW3PCS*MTcwNDMyNzk1Ni40Ny4xLjE3MDQzMjgyOTIuMC4wLjA.*_fplc*c3dWMzFpbHFKJTJGVTN0Y01JeGJ5VWklMkJ0VUlCcnpJNEJyUG9vaThNeUU4Mloxc1BpUWdPV25TMjJFRXRldW83MENCdWVUSkszVzJMQUx5QVIzdk9kMmNjQ1Z0bjUzRkNNTVVQMTFyTXJjZG1iTTNER3YydGtNOGpOUVpCaiUyQjJBJTNEJTNE
